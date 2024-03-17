@@ -22,10 +22,12 @@ Make sure to add a `README.md` file in your repository.
 #### Part 1 Task 4:
 
 Add the CODE OF CONDUCT File URL.
+![My Code of Conduct URL](https://github.com/gaurav-aditya/jbbmo-Introduction-to-Git-and-GitHub/blob/master/CODE_OF_CONDUCT.md)
 
 #### Part 1 Task 5:
 
 Add the URL of the `Contributing.md` file.
+![My Contribute.md URl](https://github.com/gaurav-aditya/jbbmo-Introduction-to-Git-and-GitHub/blob/master/CONTRIBUTING.md)
 
 #### Part 2 Task 1:
 
