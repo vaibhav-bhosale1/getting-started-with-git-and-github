@@ -68,3 +68,7 @@ Now add 2 branches named `bug-fix-revert` and `bug-fix-typo` in your `jbbmo-Intr
 Don't forget to star this repository.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Final Assessment of - Django Application Development with SQL and Databases
+![07-final](https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/ae0512b6-a076-4815-b7c6-c11b8cb77b01)
