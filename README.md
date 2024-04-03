@@ -71,17 +71,18 @@ Don't forget to star this repository.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Final Assessment of - Django Application Development with SQL and Databases
-
+#### Task 1:
 <img width="709" alt="01-models" src="https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/ffe819af-ed76-4d79-8b12-00b6f2cc0a21">
+#### Task 2:
 <img width="635" alt="02-admin-file" src="https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/c5950f8c-8729-4b1a-85fe-9df02da430ed">
-
+#### Task 4:
 <img width="834" alt="04-course-details" src="https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/f79892a1-283a-404a-aa1b-e6c0c328a8cf">
-
+#### Task 5:
 <img width="821" alt="05-views" src="https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/56d49468-e763-43b5-9953-9f1cd02f9659">
-
+#### Task 6:
 
 <img width="872" alt="06-urls" src="https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/5ea18952-3e35-4e45-bbc3-4320f4d04b37">
-
+#### Task 7:
 ![07-final](https://github.com/gaurav-aditya/getting-started-with-git-and-github/assets/110540811/7b44094f-6bc2-4f3c-8cb8-b3c2756178e8)
 
 
