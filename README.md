@@ -6,10 +6,7 @@ This repository contains the final assignment solution of the "Getting Started w
 
 ### Tasks
 
-#### Part 1 Task 1:
-
-Submit the URL of your GitHub repository which you have forked from this link:
-[Fork this repository](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub)
+#### Part 1 Task 1:s
 
 #### Part 1 Task 2:
 
